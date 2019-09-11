@@ -1,5 +1,3 @@
-##EXTREMELY STUCK ON THIS ASSIGNMENT - Don't understand how to interpret the X_test and X_training files
-
 #You should create one R script called run_analysis.R that does the following.
 library(plyr)
 library(dplyr)
