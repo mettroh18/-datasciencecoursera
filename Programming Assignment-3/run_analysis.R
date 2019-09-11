@@ -1,4 +1,4 @@
-##EXTREMELY STUCK ON THIS ASSIGNMENT
+##EXTREMELY STUCK ON THIS ASSIGNMENT - Don't understand how to interpret the X_test and X_training files
 
 #You should create one R script called run_analysis.R that does the following.
 library(plyr)
@@ -28,6 +28,7 @@ test <- readtext("./data/test/X_test.txt")
 merged <- data.frame(training, test)
 
 #Extracts only the measurements on the mean and standard deviation for each measurement.
+
 
 
 #Uses descriptive activity names to name the activities in the data set
